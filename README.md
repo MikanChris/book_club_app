@@ -1,4 +1,4 @@
-# hello_world
+# book_club_app
 
 A new Flutter project.
 
